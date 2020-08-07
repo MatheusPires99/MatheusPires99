@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusPires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pires-521271180/)](https://www.linkedin.com/in/matheus-pires-521271180/) 
 
 ## What's up 👋
-I'm Hugo Duarte.
+I'm Matheus Pires.
 
-- 🚀 I’m currently working at **Sambatech**
+- 🚀 I’m currently working at **Sambatech**.
 - 👨🏻‍💻 ReactJS, React Native and Node.js
 
 
