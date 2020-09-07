@@ -6,5 +6,5 @@
 Hi!, I am Matheus Pires.
 I am a Fullstack developer 💻.
 
-- 🚀 I’m currently working at **Sambatech**.
+- 🚀 I’m currently working at **[Sambatech](https://sambatech.com/)**.
 - 👨🏻‍💻 ReactJS, React Native and Node.js
