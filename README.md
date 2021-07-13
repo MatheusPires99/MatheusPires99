@@ -6,5 +6,5 @@
 Hi!, I am Matheus Pires.
 I am a Fullstack developer 💻.
 
-- 🚀 I’m currently working at **[COSI Group](https://www.cosi-group.com/)**.
+- 🚀 I’m currently working at **[numa](https://www.numastays.com/)**.
 - 👨🏻‍💻 ReactJS, React Native and Node.js
