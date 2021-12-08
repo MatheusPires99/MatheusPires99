@@ -1,10 +1,8 @@
-# Matheus Pires
-[![Gmail Badge](https://img.shields.io/badge/-matheushenriquepires99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushenriquepires99@gmail.com)](mailto:matheushenriquepires99@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-MatheusPires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pires-521271180/)](https://www.linkedin.com/in/matheus-pires-521271180/) 
+<img align="right" src="https://github.com/MatheusPires99/MatheusPires99/blob/master/images/illustration.png" width="300"/>
 
-## What's up 👋
-Hi!, I am Matheus Pires.
-I am a Fullstack developer 💻.
+<h2 align="left">Hi <img src="https://github.com/MatheusPires99/MatheusPires99/blob/master/images/wave.gif" width="30px">, I'm Matheus Pires</h2>
+<h3 align="left">I'm currently working at <a href="https://www.numastays.com/" target="blank">numa 🏨</a></h3>
 
-- 🚀 I’m currently working at **[numa](https://www.numastays.com/)**.
-- 👨🏻‍💻 ReactJS, React Native and Node.js
+- 🧑🏻‍💻 I'm a JavaScript Full-Stack Developer (ReactJS, React Native and Node.js).
+- 📫  How to reach me: **matheushenriquepires99@gmail.com** or [LinkedIn](https://www.linkedin.com/in/matheus-pires-521271180).
+- ⚡️ All of my projects are available at [https://brunos3d.github.io](https://brunos3d.github.io).
